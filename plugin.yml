@@ -1,0 +1,8 @@
+name: lotrRP
+main: me.DerekV.lotrRP.lotrRP
+version: 0.1
+author: cow9000
+description: This was made for roluikcraft
+commands:
+  rp:
+    description: Describes commands.
